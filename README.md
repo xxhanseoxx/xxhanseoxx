@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvhEDvUhVlHgPQ3vii45l7ZWwD_Z3TEePZLw&s" />
 </div>
 
 <!--내용 부분-->
