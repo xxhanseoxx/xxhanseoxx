@@ -4,11 +4,10 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">😈 One Piece 😈</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791142305320.jpg" />&nbsp
+  <img src="https://image.aladin.co.kr/product/27852/49/letslook/K502734683_f.jpg" />&nbsp
 </div>
 
 <div align="center">
